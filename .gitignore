@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ruby
+*.gem
+.bundle/
+Gemfile.lock
